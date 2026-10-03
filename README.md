@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of kevid/flarum-pipetables.** Not for installation: use [Packagist](https://packagist.org/packages/kevid/flarum-pipetables) or the [upstream repository](https://github.com/webagil-kevin/flarum-pipetables).
 
-**0** versions archived · Latest: [`v2.0`](https://github.com/flarchive/kevid-flarum-pipetables/tree/archive/v2.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**8** versions archived · Latest: [`v2.0`](https://github.com/flarchive/kevid-flarum-pipetables/tree/archive/v2.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2018-02-28 | `>=0.1.0-beta.7` | [Browse](https://github.com/flarchive/kevid-flarum-pipetables/tree/archive/v1.0.0) |
+| `1.0.3` | 2018-02-28 | `>=0.1.0-beta.7` | [Browse](https://github.com/flarchive/kevid-flarum-pipetables/tree/archive/v1.0.3) |
+| `1.0.4` | 2018-02-28 | `>=0.1.0-beta.7` | [Browse](https://github.com/flarchive/kevid-flarum-pipetables/tree/archive/v1.0.4) |
+| `1.0.5` | 2018-03-01 | `>=0.1.0-beta.7` | [Browse](https://github.com/flarchive/kevid-flarum-pipetables/tree/archive/v1.0.5) |
+| `1.0.6` | 2018-03-01 | `>=0.1.0-beta.7` | [Browse](https://github.com/flarchive/kevid-flarum-pipetables/tree/archive/v1.0.6) |
+| `1.0.7` | 2018-03-02 | `>=0.1.0-beta.7` | [Browse](https://github.com/flarchive/kevid-flarum-pipetables/tree/archive/v1.0.7) |
+| `1.0.8` | 2018-03-05 | `>=0.1.0-beta.7` | [Browse](https://github.com/flarchive/kevid-flarum-pipetables/tree/archive/v1.0.8) |
+| `v2.0` | 2019-03-16 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kevid-flarum-pipetables/tree/archive/v2.0) |
 
 Catalog entry: [packages/kevid-flarum-pipetables.json](https://github.com/flarchive/archive-index/blob/main/packages/kevid-flarum-pipetables.json)
 
